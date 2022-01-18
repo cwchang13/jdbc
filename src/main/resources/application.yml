@@ -1,0 +1,9 @@
+app:
+  datasource:
+    main:
+      driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+      jdbc-url: jdbc:sqlserver://localhost:1433;DatabaseName=Spring_learning
+      username: IntelliJ
+      password: idea2021
+      pool-size: 30
+
